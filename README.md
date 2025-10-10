@@ -9,6 +9,6 @@ Parkit- A smart vehicle parking management system that enables real-time pre-boo
 5. IoT Integration (ANPR): Uses number plate recognition at entry/exit points for automated logging and accurate time tracking.
 
 🗺️ Structure
-Mobile-app - Mobile app source code (Client side)
+Mobile-app - Mobile app source code - Flutter(Dart) (Client side)
 Backend - API server and core business logic
 Iot-firmware - Code for Arduino (ANPR/sensors)
